@@ -8,7 +8,7 @@
 - 📚 I love to read articles and books on **[Astrophysics, Dark Matter, Interstellar Objects]**
 - 💬 Ask me about **Programming in C ,C++ and JAVA**
 
-- 📫 Email me at <img src="https://camo.githubusercontent.com/192fc4fc23dea363e767c8517a5880fa9e9de95bceca33f008982e1d73bfb3c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d696e616c2e7661697479393540676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d696e616c2e7661697479393540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-chatterjeeu7@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:chatterjeeu7@gmail.com" style="max-width:100%;">
+- 📫 Email me at 
 - ⚡ Deepfact **We're still living with the old paradigm of age as an arch. That's the old metaphor: You're born, you peak at midlife and decline into decrepitude.**
 <hr></hr>
 <h3 align="center">Connect with me</h3>
