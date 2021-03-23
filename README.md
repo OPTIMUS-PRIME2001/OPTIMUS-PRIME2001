@@ -28,7 +28,7 @@
 <summary>
   My GitHub Stats
 </summary>  
- <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optimus-prime2001&show_icons=true&locale=en&layout=compact&theme=dracula" alt="optimus-prime2001" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=optimus-prime2001&show_icons=true&locale=en&layout=compact&theme=dracula" alt="optimus-prime2001" /><br>
+ <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optimus-prime2001&show_icons=true&locale=en&layout=compact&theme=dracula" alt="optimus-prime2001" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=optimus-prime2001&show_icons=true&locale=en&layout=compact&theme=dracula" alt="optimus-prime2001" /><br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optimus-prime2001&theme=dracula" alt="optimus-prime2001" /></p>
  </details>
