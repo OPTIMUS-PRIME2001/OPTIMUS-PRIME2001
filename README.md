@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100008208673565" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1616475752~hmac=3ff783ec6886f82b8d3236b60b4c35ea" data-png="https://img-premium.flaticon.com/png/512/145/145802.png?token=exp=1616475752~hmac=1d0e37484f643049cf72aa283fdc0b9f" data-id="145802" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www,instagram.com/prime_071?r=nametag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www,instagram.com/prime_071?r=nametag" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www,instagram.com/prime_071?r=nametag" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1616476238~hmac=bccd5d33d4c6b2cb0cd0fcfc3a095bf4"  height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.yputube.com/saptars chatterjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.yputube.com/saptars chatterjee" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/v7zJJxjK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/v7zJJxjK" height="30" width="40" /></a>
 </p>
