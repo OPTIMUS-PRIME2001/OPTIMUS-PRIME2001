@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋,I am SAPTARSHI</h1>
 <h3 align="center">A passionate Coder and Enthusiastic Computer Science Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=optimus-prime2001&label=Profile%20views&color=0e75b6&style=flat" alt="optimus-prime2001" /> </p>
+
 
 - 🌱 I’m currently learning **more about Python, Flutter, Websites and App Developmentd**
 
@@ -26,8 +26,10 @@
 <hr></hr>
 <details>
 <summary>
-  <img align="left" src="https://www.flaticon.com/svg/vstatic/svg/3800/3800720.svg?token=exp=1616509202~hmac=ee26393ad81d14c80b308cc24454a53b" alt="optimus-prime2001stats" wifth="40" height="30">"My GitHub Stats"
-</summary>  
+    <figure><img align="left" src="https://www.flaticon.com/svg/vstatic/svg/3800/3800720.svg?token=exp=1616509202~hmac=ee26393ad81d14c80b308cc24454a53b" alt="optimus-prime2001stats" wifth="40" height="30">
+    <figcaption><h3>My GitHub Stats</h3></figcaption>
+  <figure>
+  </summary>  
  <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optimus-prime2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="optimus-prime2001" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=optimus-prime2001&show_icons=true&locale=en&layout=compact&theme=dracula" alt="optimus-prime2001" /><br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optimus-prime2001&theme=tokyonight" alt="optimus-prime2001" /></p>
