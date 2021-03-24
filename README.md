@@ -8,7 +8,7 @@
 - 📚 I love to read articles and books on **[Astrophysics, Dark Matter, Interstellar Objects]**
 - 💬 Ask me about **Programming in C ,C++ and JAVA**
 
-- 📫 Email me at 
+- 📫 Email me at [![Gmail Badge](https://img.shields.io/badge/-chatterjeeu7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:chatterjeeu7@gmail.com)
 - ⚡ Deepfact **We're still living with the old paradigm of age as an arch. That's the old metaphor: You're born, you peak at midlife and decline into decrepitude.**
 <hr></hr>
 <h3 align="center">Connect with me</h3>
