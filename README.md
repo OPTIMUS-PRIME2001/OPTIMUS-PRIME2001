@@ -33,4 +33,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optimus-prime2001&theme=tokyonight" alt="OPTIMUS-PRIME2001" /></p>
  </details>
  <hr></hr>
- <img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
+ <p align="center"><img  src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"></p>
