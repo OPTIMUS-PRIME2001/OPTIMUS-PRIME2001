@@ -1,7 +1,8 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I am SAPTARSHI</h1>
 <h3 align="center">A passionate Coder and Enthusiastic Computer Science Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=optimus-prime2001&label=Profile%20views&color=0e75b6&style=flat" alt="OPTIMUS-PRIME2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=optimus-prime2001&label=Profile%20views&color=0e75b6&style=flat" alt="OPTIMUS-PRIME2001" /> 
+<img align= right src="https://img.shields.io/github/last-commit/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/master?label=Last%20updated&style=flat"></p>
 
 - 🌱 I’m currently learning **more about Python, Flutter, Websites and App Development**
 
