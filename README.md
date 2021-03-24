@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optimus-prime2001&label=Profile%20views&color=0e75b6&style=flat" alt="OPTIMUS-PRIME2001" /> </p>
 
-- 🌱 I’m currently learning **more about Python, Flutter, Websites and App Developmentd**
+- 🌱 I’m currently learning **more about Python, Flutter, Websites and App Development**
 
 - 📚 I love to read articles and books on **[Astrophysics, Dark Matter, Interstellar Objects]**
 - 💬 Ask me about **Programming in C ,C++ and JAVA**
