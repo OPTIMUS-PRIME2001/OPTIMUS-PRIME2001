@@ -6,10 +6,9 @@
 <marquee direction="right"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></marquee> 
 <img align= right src="https://img.shields.io/github/last-commit/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/master?label=Last%20updated&style=flat"></p>
 <div>
-     
-- 🌱 *I’m currently learning **more about Python, Flutter, Websites and App Development***
+ <img align="right" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/82a129b25e981f8110c8cef29dfdb7b819ae63aa/workflows/prime.gif" width="240">
 
-<img align="right" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/82a129b25e981f8110c8cef29dfdb7b819ae63aa/workflows/prime.gif" width="210">
+- 🌱 *I’m currently learning **more about Python, Flutter, Websites and App Development***
 
 - 📚 *I love to read articles and books on **[Astrophysics, Dark Matter, Interstellar Objects]***
 
