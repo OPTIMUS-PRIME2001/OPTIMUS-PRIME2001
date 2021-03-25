@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "node ./daily.js"
+    "test": "node ./date.js"
   },
   "dependencies": {
     "lodash": "^4.17.21"
