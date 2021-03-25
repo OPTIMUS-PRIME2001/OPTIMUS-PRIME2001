@@ -16,19 +16,15 @@ function run() {
     day = day < 10 ? `0${day}` : day;
     const date = `${year}-${month}-${day}`;
 
-    const quotation = fs.readFileSync('./quotations.md', 'utf-8');
+    /*const quotation = fs.readFileSync('./quotations.md', 'utf-8');
     const quotations = quotation.split('\n').filter(it => it.startsWith('-'));
     console.log(`quotations: ${quotations.length}`);
     const dayily = sample(quotations);
-    console.log(`dayily: ${dayily}`);
+    console.log(`dayily: ${dayily}`);*/
 
     const newReadme = `${before}
 <kbd>${date}</kbd>
-${dayily}
 <!-- Randomly taken out from quotations.md -->
-<p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
-<img src="http://hits.dwyl.com/xrkffgg/xrkffgg.svg" />
 </p>
 `;
 
