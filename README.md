@@ -5,14 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optimus-prime2001&label=Profile%20views&color=0e75b6&style=flat" alt="OPTIMUS-PRIME2001" />
 <marquee direction="right"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></marquee> 
 <img align= right src="https://img.shields.io/github/last-commit/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/master?label=Last%20updated&style=flat"></p>
-
+<div>
+     
 - 🌱 *I’m currently learning **more about Python, Flutter, Websites and App Development***
 
+<img align="right" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/82a129b25e981f8110c8cef29dfdb7b819ae63aa/workflows/prime.gif" width="210">
+
 - 📚 *I love to read articles and books on **[Astrophysics, Dark Matter, Interstellar Objects]***
+
 - 💬 *Ask me about **Programming in C ,C++ and JAVA***
 
 - 📫 *Email me at* [![Gmail Badge](https://img.shields.io/badge/-chatterjeeu7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:chatterjeeu7@gmail.com)
 - ⚡ *Deepfact **We're still living with the old paradigm of age as an arch. That's the old metaphor: You're born, you peak at midlife and decline into decrepitude.***
+</div>
 <hr></hr>
 <h3 align="center">Connect with me</h3>
 <p align="center">
