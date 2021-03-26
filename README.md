@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Coder and Enthusiastic Computer Science Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optimus-prime2001&label=Profile%20views&color=0e75b6&style=flat" alt="OPTIMUS-PRIME2001" />
-<marquee direction="right"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></marquee> 
+<img  height="60" width="640px" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif"/>
 <img align= right src="https://img.shields.io/github/last-commit/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/master?label=Last%20updated&style=flat"></p>
 <div>
  <img align="right" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/82a129b25e981f8110c8cef29dfdb7b819ae63aa/workflows/prime.gif" width="240">
