@@ -14,7 +14,8 @@
 
 - 💬 *Ask me about **Programming in C ,C++ and JAVA***
 
-- 📫 *Email me at* [![Gmail Badge](https://img.shields.io/badge/-chatterjeeu7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:chatterjeeu7@gmail.com)
+- 📫 *Email me at* [![Gmail Badge](https://img.shields.io/badge/-chatterjeeu7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:chatterjeeu7@gmail.com) &emsp;
+[![Outlook Badge](https://img.shields.io/badge/-official.saptarshi@outlook.com-0e76a8?style=flat-square&&labelColor=0e76a8&logo=microsoft-outlook&logoColor=white&Color=0e76a8)](mailto:official.saptarshi@outlook.com) 
 - ⚡ *Deepfact **We're still living with the old paradigm of age as an arch. That's the old metaphor: You're born, you peak at midlife and decline into decrepitude.***
 </div>
 <hr></hr>
@@ -58,6 +59,13 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>&emsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&emsp;
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a>
+</p>
+
+<h2 align="center">Cloud Based Deveops</h2>
+<p align="center"> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a>&emsp;
+<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="gcp" width="40" height="40"/> </a>&emsp;
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>&emsp;
 </p>
 
 <hr></hr>
